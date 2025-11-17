@@ -3,10 +3,11 @@
 -- Autores: Emanuel e João Pedro Freire de Albuquerque
 -- Data 17/11/2025
 
--- 
+-- Bibliotecas
 library ieee;
 use ieee.std_logic_1164.all;
 
+-- Entidade
 entity carry_ripple_4bit_adder is
     port(
         A, B        :   in std_logic_vector(3 downto 0);
@@ -17,6 +18,7 @@ entity carry_ripple_4bit_adder is
     );
 end carry_ripple_4bit_adder;
 
+-- Arquitetura
 architecture main of carry_ripple_4bit_adder is
 
     -- Componentes
