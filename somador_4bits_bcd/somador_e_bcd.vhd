@@ -1,6 +1,6 @@
 -- ELE0518 - LABORATORIO DE SISTEMAS DIGITAIS - T03 (2025.2)
 -- Atividade Bônus: Circuito somador que mostra o resultado completo (Unidade e Dezena) Em dois displays de 7 segmentos.
--- Autores: Emanuel e João Pedro Freire de Albuquerque
+-- Autores: Emanoel Ferreira dos Santos e João Pedro Freire de Albuquerque
 -- Data 18/11/2025
 
 -- Biblioteca

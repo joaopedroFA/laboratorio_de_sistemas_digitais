@@ -1,6 +1,6 @@
 -- ELE0518 - LABORATORIO DE SISTEMAS DIGITAIS - T03 (2025.2)
 -- Component half adder
--- Autores: Emanuel e João Pedro Freire de Albuquerque
+-- Autores: Emanoel Ferreira dos Santos e João Pedro Freire de Albuquerque
 -- Data 17/11/2025
 
 --Bibliotecas
