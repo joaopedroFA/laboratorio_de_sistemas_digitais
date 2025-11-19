@@ -46,8 +46,8 @@ architecture registerTransferlevel of full_adder is
         half_adder_1:   half_adder
             
             port map(
-                bit_A   =>  bit_A,
-                bit_B   =>  bit_B,
+                bit_A   =>  bit_1,
+                bit_B   =>  bit_2,
                 sum     =>  sum_1,
                 carryOut=>  carryOut_1
             );
